@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 # gtfsrdb.py: load gtfs-realtime data to a database
 # recommended to have the (static) GTFS data for the agency you are connecting
